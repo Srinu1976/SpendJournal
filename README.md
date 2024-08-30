@@ -1,13 +1,41 @@
-# Expense Tracker App: Overview
+# Spend Smart
+
+Expense Tracker is a web app designed to help you effortlessly track your daily expenses in seconds. Whether you want to manage your everyday spending or quickly calculate your shopping costs, Expense Tracker is the perfect tool. Don’t forget to use it next time you spend or save!
+It is fully responsive on all devices
+<hr>
 
 ## Deployment
+
 This app is being deployed using Netlify  
 Link to app: https://expense-tracker-react-ts-app.netlify.app
+
+<hr>
+
+## Screenshots 
+
+<img width="1470" alt="Screenshot 2024-08-30 at 4 36 48 PM" src="https://github.com/user-attachments/assets/fcd267bf-49f6-4018-a1e0-b66b039722d5">
+<img width="1470" alt="Screenshot 2024-08-30 at 4 37 10 PM" src="https://github.com/user-attachments/assets/e0f834e7-0c69-43f7-89bc-410ef631620d">
+<img width="1470" alt="Screenshot 2024-08-30 at 4 37 22 PM" src="https://github.com/user-attachments/assets/c2c86ac3-2f4c-4a94-9620-e4da49e1eff6">
+<img width="1470" alt="Screenshot 2024-08-30 at 4 37 31 PM" src="https://github.com/user-attachments/assets/2570e37f-6386-42a3-8087-4b288f29c2fe">
+
+<hr>
+
+## The tech stack utilized includes:
+
+## Tech Stack Used
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Mantine UI](https://img.shields.io/badge/Mantine%20UI-339af0?style=for-the-badge&logo=manta&logoColor=white)](https://mantine.dev/)
+
+<hr>
 
 ## Motivation Behind Project 
 As a university student it is very important to be able to keep track of where I am spending my money. Many of the expense tracking websites and apps
 either lack functionality or in design.  
-I decided to create an expense tracking app that has both the functionality and the design.  
+I decided to create an expense tracking app that has both the functionality and the desiign.  
 This project was also a great chance for me to learn the Mantine UI library.
 
 ## Resources and Technologies used
@@ -48,3 +76,10 @@ Canvas API Docs: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 <li>I plan to make this app mobile responsive throught CSS media queries or using TailwindCSS  </li>
 <li>I plan to learn how to add a backend to the expense tracker app and use a database (most likely MongoDB) to store the data instead of local storage.  </li>
 </ul>
+
+## Contact
+
+If you would like to get in touch, please reach out to me using the contact information provided below.
+
+[![linkedin](https://img.shields.io/badge/Srinu1976-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinu1976/)
+[![GitHub](https://img.shields.io/badge/Srinu1976-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Srinu1976)
