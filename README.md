@@ -81,5 +81,5 @@ Canvas API Docs: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
 
 If you would like to get in touch, please reach out to me using the contact information provided below.
 
-[![linkedin](https://img.shields.io/badge/Srinu1976-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/srinu1976/](https://www.linkedin.com/in/srinu-yeripilli-779591225/))
+[![linkedin](https://img.shields.io/badge/Srinu1976-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinu-yeripilli-779591225/)
 [![GitHub](https://img.shields.io/badge/Srinu1976-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Srinu1976)
