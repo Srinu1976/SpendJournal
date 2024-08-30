@@ -1,6 +1,6 @@
-# Spend Smart
+# SpendJournal
 
-Expense Tracker is a web app designed to help you effortlessly track your daily expenses in seconds. Whether you want to manage your everyday spending or quickly calculate your shopping costs, Expense Tracker is the perfect tool. Don’t forget to use it next time you spend or save!
+SpendJournal is a web app designed to help you effortlessly track your daily expenses in seconds. Whether you want to manage your everyday spending or quickly calculate your shopping costs, Expense Tracker is the perfect tool. Don’t forget to use it next time you spend or save!
 It is fully responsive on all devices
 <hr>
 
